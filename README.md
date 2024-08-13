@@ -4,8 +4,7 @@
 <h2>Olá, eu sou Yale</h2>
 <h3>Desenvolvedor e Web Designer</h3>
 <p>
-  Sou apaixonado por combinar 
-  habilidades técnicas com uma visão criativa,criando designs atraentes e experiências únicas. 
+Desenvolvedor Back-End com experiência em PHP, MySQL e C#. Busco oportunidades para contribuir em projetos desafiadores que envolvam a construção de sistemas robustos e eficientes, utilizando minhas habilidades técnicas e paixão por resolver problemas complexos.
 </p>
 
 <h3>Tecnologias</h3>
