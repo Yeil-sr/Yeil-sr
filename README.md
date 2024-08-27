@@ -4,7 +4,7 @@
 <h2>Olá, eu sou Yale</h2>
 <h3>Desenvolvedor e Web Designer</h3>
 <p>
-Desenvolvedor Fullstack com experiência em PHP, MySQL e C#. Busco oportunidades para contribuir em projetos desafiadores que envolvam a construção de sistemas robustos e eficientes, utilizando minhas habilidades técnicas e paixão por resolver problemas complexos.
+ Desenvolvedor FullStack com formação em Análise e Desenvolvimento de Sistemas pela Unopar. Apaixonado por combinar habilidades técnicas com uma visão criativa, sou especializado em criar designs atraentes e experiências únicas. Minhas competências incluem resolver problemas técnicos, implementar atualizações e garantir a segurança dos sistemas. Destaco-me por entregar interfaces atrativas e um desempenho excepcional para sites.
 </p>
 
 <h3>Tecnologias</h3>
