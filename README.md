@@ -1,54 +1,53 @@
+<div align="center">
+  <img  src="https://github.com/user-attachments/assets/0fa8df78-f317-4439-94bf-db3b7cf0dd65"  />
+</div>
+
+###
+
+<div align="center">
+  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
+  <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
+ <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+</div>
+
+###
+
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left"> About Me</h3>
+
+###
+
+<p align="left">Hello, I'm Yale<br><br>- 🔭 Developer and Web Designer.<br>- 📚 graduated in Systems Analysis and Development from Unopar. Passionate about combining technical skills with a creative vision, I specialize in creating eye-catching designs and unique experiences.<br>- ⚡ My skills include resolving technical problems, implementing updates and ensuring system security. I stand out for delivering attractive interfaces and exceptional performance for websites.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
 
 
 
-<h2>Olá, eu sou Yale</h2>
-<h3>Desenvolvedor e Web Designer</h3>
-<p>
- Desenvolvedor FullStack com formação em Análise e Desenvolvimento de Sistemas pela Unopar. Apaixonado por combinar habilidades técnicas com uma visão criativa, sou especializado em criar designs atraentes e experiências únicas. Minhas competências incluem resolver problemas técnicos, implementar atualizações e garantir a segurança dos sistemas. Destaco-me por entregar interfaces atrativas e um desempenho excepcional para sites.
-</p>
-
-<h3>Tecnologias</h3>
-      <div class="lisTag">
-            <a class="tag">
-            <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
-           </a>
-          <a class="tag">
-            <img style="width: 44px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />        
-           </a>
-              <a class="tag">
-            <img style="width: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          </a>
-              <a class="tag">
-            <img style="width: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-          </a>
-             <a class="tag">
-            <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-          </a>
-          </a>
-           <a class="tag">
-            <img style="width: 44px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  />
-          </a>
-             <a class="tag">
-            <img style="width: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  />
-          </a>
-          <a class="tag">
-            <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          </a>
-           <a class="tag">
-            <img style="width: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          </a>
-       </div> 
-         <hr>
-         <div>
-            <a href="yale.designers@gmail.com">
-            <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-           </a>
-           <a href="https://www.linkedin.com/in/yale-souza/">
-            <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
-           </a>
-            <a">
-            <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />        
-           </a>
-          </div>
-
-          
